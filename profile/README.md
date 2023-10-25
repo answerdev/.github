@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Answer is a Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
+Apache Answer is a Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
 
 <!--
 
@@ -13,9 +13,7 @@ Answer is a Q&A platform software for teams at any scales. Whether it’s a comm
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-**Answer now enters Apache Incubator**
-
-You can check the repos here:
+**Apache Answer is currently undergoing Incubation at the Apache Software Foundation**, You can check the repos here:
 
 - Answer: https://github.com/apache/incubator-answer
 - Plugins: https://github.com/apache/incubator-answer-plugins
