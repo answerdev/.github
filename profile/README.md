@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Answer is a Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -18,4 +20,3 @@ You can check the repos here:
 - Answer: https://github.com/apache/incubator-answer
 - Plugins: https://github.com/apache/incubator-answer-plugins
 - Official site: https://github.com/apache/incubator-answer-website
-
