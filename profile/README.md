@@ -13,8 +13,8 @@ Apache Answer is a Q&A platform software for teams at any scales. Whether it’s
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-**Apache Answer is currently undergoing Incubation at the Apache Software Foundation**, You can check the repos here:
+**Apache Answer is an official project under the Apache Software Foundation (ASF).**, You can check the repos here:
 
-- Answer: https://github.com/apache/incubator-answer
-- Plugins: https://github.com/apache/incubator-answer-plugins
-- Official site: https://github.com/apache/incubator-answer-website
+- Apache Answer: https://github.com/apache/answer
+- Plugins: https://github.com/apache/answer-plugins
+- Official site: https://github.com/apache/answer-website
